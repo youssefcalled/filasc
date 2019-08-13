@@ -94,7 +94,6 @@ int main()
                 printf("Fila vazia");
             else
                 Mostra(afila);
-                printf("\n%x",*afila);
             break;
 
         case '8':
@@ -103,8 +102,6 @@ int main()
 
             else
                 Mostra(afilab);
-                printf("\n%x",*afila);
-                printf("\n%x",*afilab);
             break;
 
         case 'a':
